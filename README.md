@@ -31,7 +31,7 @@ This is a robust backend for a TEDx event platform, built with Node.js, Express,
 1.  **Clone the repository:**
 
     ```bash
-    git clone <[repository-url](https://github.com/nandhu-navneeth/TedX-CUSAT_backend)>
+    git clone https://github.com/nandhu-navneeth/TedX-CUSAT_backend
     cd tedx-backend
     ```
 
